@@ -13,7 +13,7 @@ __all__ = [
 
 __title__ = "argo-workflows"
 __summary__ = "Community Maintained Python client for Argo Workflows"
-__uri__ = "https://github.com/argoproj-labs/argo-client-python"
+__uri__ = "https://github.com/zgs225/argo-client-python"
 
 __version__ = "5.0.0"
 
